@@ -4,7 +4,7 @@ const quoteText = document.getElementById("quote");
 const authorName = document.getElementById("author");
 const btn = document.getElementById("button");
 
-let selectedCategory = "humor";
+let selectedCategory = "Inspirational";
 
 generateNewQuote();
 
