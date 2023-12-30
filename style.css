@@ -67,7 +67,6 @@ header {
   border-radius: 10px;
 }
 
-/* Media query for screens smaller than 600 pixels */
 @media screen and (max-width: 750px) {
   .quotes-container {
     width: 80vw;
