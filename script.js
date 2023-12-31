@@ -6,7 +6,7 @@ const btn = document.getElementById("button");
 
 let selectedCategory = "Inspirational";
 
-generateNewQuote();
+// generateNewQuote();
 
 dropdown.addEventListener("change", () => {
   selectedCategory = dropdown.value;
